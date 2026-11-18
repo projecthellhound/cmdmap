@@ -42,7 +42,7 @@ Every finding is verified, timestamped, and delivered with a ready-to-run `curl`
 ## Installation
 
 ```bash
-git clone https://github.com/project-hellhound/cmdmap.git
+git clone https://github.com/projecthellhound/cmdmap.git
 cd cmdmap
 chmod +x install.sh
 ./install.sh
@@ -134,7 +134,7 @@ cmdmap https://target.com/ --verbose
 
 ## Part of Hellhound
 
-CMDmap is the command injection agent in the [Hellhound Pentest Framework](https://github.com/project-hellhound-org/Hellhound-Pentest) and the CyArt VAPT platform.
+CMDmap is the command injection agent in the [Hellhound Bounty Hunter](https://github.com/projecthellhound/bounty-hunter) and the CyArt VAPT platform.
 
 ---
 
@@ -152,6 +152,11 @@ CMDmap is the command injection agent in the [Hellhound Pentest Framework](https
 For authorized security testing only. Licensed under **GPLv3**.
 
 ---
+
+<p align="center">
+  Built by <a href="https://l4zz3rj0d.github.io"><b>L4ZZ3RJ0D</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/projecthellhound/cmdmap">projecthellhound/cmdmap</a>
+</p>
 
 ## Author
 

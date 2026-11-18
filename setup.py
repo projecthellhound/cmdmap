@@ -5,7 +5,7 @@ setup(
     version="1.0.1",
     description="Autonomous Command Injection Detector (CMDINJ)",
     author="L4ZZ3RJ0D",
-    url="https://github.com/project-hellhound/cmdmap",
+    url="https://github.com/projecthellhound/cmdmap",
     py_modules=["CMDmap"],
     python_requires=">=3.10",
     install_requires=[],
